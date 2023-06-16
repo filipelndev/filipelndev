@@ -1,15 +1,13 @@
  Oi! 👋
  Meu nome é Filipe Lombardi Noronha
 
-Atualmente sou estudante 📖
-Faço faculdade de Análise e desenvolvimento de sistemas 🖥️
+Sou formado em Análise e desenvolvimento de sistemas 🖥️
 
-estou aprendendo sobre Angular, Java Spring, react entre outras linguagens
-buscando melhorar cada dia e fazendo alguns projetos para me auxiliar a 
+Atualmente desenvolvo em  Angular, Java com Spring Boot e também desenvolvo games em C# usando Unity.
+Porém continuo buscando melhorar cada dia e fazendo alguns projetos para me auxiliar a 
 alcançar esse objetivo.
 
-Alguns estão aqui no github, outros estão apenas no computador
-pois também venho aprendendo C# para desenvolvimento de games.
+Aqui estão alguns dos meu projetos, para que possa ver meu trabalho
 
 Caso queria entrar em contato comigo, meu e-mail é filipelndev@gmail.com.
 ##
